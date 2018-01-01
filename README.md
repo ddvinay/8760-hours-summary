@@ -1,6 +1,6 @@
 # Summary of _8,760 Hours_
 
-This is my summary of the year planning guide [_8,760 Hours: How to get the most out of next year](https://alexvermeer.com/8760hours/). This summary is no replacement for the original writing, it is intended to be better than not reading the original guide.
+This is my summary of the year planning guide _[8,760 Hours: How to get the most out of next year](https://alexvermeer.com/8760hours/)_. This summary is no replacement for the original writing, it is intended to be better than not reading the original guide.
 
 
 
