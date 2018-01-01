@@ -52,7 +52,7 @@ There are many ways to breakdown your life into different "buckets". Author sugg
 
 To start, you want to get the brain thinking about this stuff by answering following questions about past year and your current situation:
 
-1. What went well? What did not went well?
+1. What went well? What did not go well?
 2. What did you try hard? What did you not try hard enough?
 3. How would I summarize to a friend the status of this area?
 
